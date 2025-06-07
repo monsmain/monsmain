@@ -5,4 +5,4 @@
 .
 .
 .
-- If you consider my codes useful, feel free to support me with any amount.   [link donate❤️](https://monsmain.carrd.co/)
+- If you consider my codes useful, feel free to support me with any amount.   [link donate ❤️](https://monsmain.carrd.co/)
