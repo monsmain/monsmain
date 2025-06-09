@@ -2,7 +2,4 @@
 
 ### Your most unhappy customers are your greatest source of learning.
 #### -Bill Gates
-.
-.
-.
-- If you consider my codes useful, feel free to support me with any amount.   [link donate ❤️](https://monsmain.carrd.co/)
+# If you consider my codes useful, feel free to support me with any amount.   [link donate ❤️](https://monsmain.carrd.co/)
