@@ -17,4 +17,4 @@ If you find my tools useful, feel free to support me:👉 [Link Donate](https://
 
 ##  📞  Contact me
 
-[Link Contact](https://monsmain.carrd.co/)❤
+[Link Contact](https://monsmain.carrd.co/)
