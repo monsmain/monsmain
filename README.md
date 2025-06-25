@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+monsmain!;Welcome+to+my+GitHub+universe!;a+developer+interested;in+tools+and+ethical+testing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+monsmain!;Welcome+To+My+GitHub+Universe!;a+Developer+Interested;In+Tools+And+Ethical+Testing" alt="Typing SVG" />
 </p><br><br/>  
 
 ### My Projects:
