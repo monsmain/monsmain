@@ -17,9 +17,9 @@ If you find my tools useful, feel free to support me:👉 [Link Donate](https://
 
 
 [Link Contact](https://monsmain.carrd.co/)
-<h2 align="center">$$\color{#a5a5a5} \large \text{  📞  Contact me}$$</h2>
+<h2 align="left">$$\color{#a5a5a5} \large \text{📞Contact me}$$</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/monsmain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/monsmain"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
