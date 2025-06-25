@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+monsmain!;Welcome+To+My+GitHub+Universe!;a+Developer+Interested;In+Tools+And+Ethical+Testing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+monsmain!;Welcome+To+My+GitHub+Universe!;a+Developer+Interested;In+Tools+And+Ethical+Testing" alt="Typing SVG" /> 
 </p><br><br/>  
 
 ### My Projects:
@@ -9,14 +9,11 @@
 
 ### In the words of Bill Gates: Your most unhappy customers are your greatest source of learning.
 
-
 ## ☕ Support My Work
 
 If you find my tools useful, feel free to support me:👉 [Link Donate](https://monsmain.carrd.co/)❤️
 
 
-
-[Link Contact](https://monsmain.carrd.co/)
 <h2 align="left">$$\color{#a5a5a5} \large \text{📞Contact me}$$</h2>
 
 <p align="left">
