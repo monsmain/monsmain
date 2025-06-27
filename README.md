@@ -14,7 +14,7 @@
 If you find my tools useful, feel free to support me:
   <a href="https://monsmain.carrd.co"><img src="https://img.shields.io/badge/Donate-ff0000?style=for-the-badge&logo=ilovepdf&logoColor=white" /></a>
 
-<h2 align="center">$$\color{#ffffff} \large \text{📞Contact me}$$</h2>
+<h2 align="center">$$\color{#ffffff} \large \text{📞Contact Me}$$</h2>
 
 <p align="center">
   <a href="https://youtube.com/monsmain"><img src="https://img.shields.io/badge/Youtube-e80f0f?style=for-the-badge&logo=youtube&logoColor=white" /></a>
