@@ -12,7 +12,7 @@
 ## ☕ Support My Work
 
 If you find my tools useful, feel free to support me:👉
-  <a href="https://monsmain.carrd.co"><img src="https://img.shields.io/badge/Donate❤️-red" /></a>
+  <a href="https://monsmain.carrd.co"><img src="https://img.shields.io/badge/Donate?logo=%E2%9D%A4%EF%B8%8F&link=https%3A%2F%2Fmonsmain.carrd.co" /></a>
 
 
 <h2 align="left">$$\color{#ffffff} \large \text{📞Contact me}$$</h2>
