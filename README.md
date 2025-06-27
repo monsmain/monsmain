@@ -14,7 +14,7 @@
 If you find my tools useful, feel free to support me:👉 [Link Donate](https://monsmain.carrd.co/)❤️
 
 
-<h1 align="left">$$\color{#ffffff} \large \text{📞Contact me}$$</h2>
+<h2 align="left">$$\color{#ffffff} \large \text{📞Contact me}$$</h2>
 
 <p align="left">
   <a href="https://github.com/monsmain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
