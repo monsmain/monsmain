@@ -13,12 +13,6 @@
 </div>
 
 <div align="center">
-
-[![Readme Card](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&author=Bill%20Gates)
-
-</div>
-
-<div align="center">
     <h2>☕Support My Work</h2>
 
 ### If you find my tools useful, feel free to support me
