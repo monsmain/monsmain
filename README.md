@@ -24,9 +24,8 @@
 <div align="center">
   <h3>🛠️ Language & Tools</h3>
   <br>
-  <!-- در اینجا می‌توانی مهارت‌هایت را تغییر دهی -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,bash,git,github,kali,docker,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,go,js,cloudflare,linux,bash,git,github,vscode,androidstudio&theme=dark" alt="My Skills" />
   </a>
 </div>
 
