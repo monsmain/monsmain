@@ -3,7 +3,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/monsmain/bg_black.svg" alt="Profile Views" />
+  <img src="https://profile-counter.deno.dev/monsmain/count.svg" alt="Profile Views" />
 </div>
 
 <br>
